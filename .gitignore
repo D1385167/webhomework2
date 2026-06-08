@@ -5,3 +5,9 @@ package-lock.json
 *.log
 dist/
 build/
+prices.db
+public/*.html
+public/script.js
+/.vite
+.idea/
+.vscode/
