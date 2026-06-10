@@ -9,6 +9,9 @@ permissions:
   pages: write
   id-token: write
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
